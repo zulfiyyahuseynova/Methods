@@ -1,0 +1,14 @@
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\SaheMethod\SaheMethod\obj\Debug\netcoreapp3.1\SaheMethod.csproj.AssemblyReference.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\SaheMethod\SaheMethod\obj\Debug\netcoreapp3.1\SaheMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\SaheMethod\SaheMethod\obj\Debug\netcoreapp3.1\SaheMethod.AssemblyInfoInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\SaheMethod\SaheMethod\obj\Debug\netcoreapp3.1\SaheMethod.AssemblyInfo.cs
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\SaheMethod\SaheMethod\obj\Debug\netcoreapp3.1\SaheMethod.csproj.CoreCompileInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\SaheMethod\SaheMethod\bin\Debug\netcoreapp3.1\SaheMethod.exe
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\SaheMethod\SaheMethod\bin\Debug\netcoreapp3.1\SaheMethod.deps.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\SaheMethod\SaheMethod\bin\Debug\netcoreapp3.1\SaheMethod.runtimeconfig.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\SaheMethod\SaheMethod\bin\Debug\netcoreapp3.1\SaheMethod.runtimeconfig.dev.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\SaheMethod\SaheMethod\bin\Debug\netcoreapp3.1\SaheMethod.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\SaheMethod\SaheMethod\bin\Debug\netcoreapp3.1\SaheMethod.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\SaheMethod\SaheMethod\obj\Debug\netcoreapp3.1\SaheMethod.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\SaheMethod\SaheMethod\obj\Debug\netcoreapp3.1\SaheMethod.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\SaheMethod\SaheMethod\obj\Debug\netcoreapp3.1\SaheMethod.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\HasLetterMethod\HasLetterMethod\obj\Debug\netcoreapp3.1\HasLetterMethod.csproj.AssemblyReference.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\HasLetterMethod\HasLetterMethod\obj\Debug\netcoreapp3.1\HasLetterMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\HasLetterMethod\HasLetterMethod\obj\Debug\netcoreapp3.1\HasLetterMethod.AssemblyInfoInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\HasLetterMethod\HasLetterMethod\obj\Debug\netcoreapp3.1\HasLetterMethod.AssemblyInfo.cs
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\HasLetterMethod\HasLetterMethod\obj\Debug\netcoreapp3.1\HasLetterMethod.csproj.CoreCompileInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\HasLetterMethod\HasLetterMethod\bin\Debug\netcoreapp3.1\HasLetterMethod.exe
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\HasLetterMethod\HasLetterMethod\bin\Debug\netcoreapp3.1\HasLetterMethod.deps.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\HasLetterMethod\HasLetterMethod\bin\Debug\netcoreapp3.1\HasLetterMethod.runtimeconfig.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\HasLetterMethod\HasLetterMethod\bin\Debug\netcoreapp3.1\HasLetterMethod.runtimeconfig.dev.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\HasLetterMethod\HasLetterMethod\bin\Debug\netcoreapp3.1\HasLetterMethod.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\HasLetterMethod\HasLetterMethod\bin\Debug\netcoreapp3.1\HasLetterMethod.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\HasLetterMethod\HasLetterMethod\obj\Debug\netcoreapp3.1\HasLetterMethod.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\HasLetterMethod\HasLetterMethod\obj\Debug\netcoreapp3.1\HasLetterMethod.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\HasLetterMethod\HasLetterMethod\obj\Debug\netcoreapp3.1\HasLetterMethod.genruntimeconfig.cache

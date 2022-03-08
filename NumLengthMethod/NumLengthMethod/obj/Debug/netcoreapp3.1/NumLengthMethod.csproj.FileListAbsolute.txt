@@ -1,0 +1,14 @@
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NumLengthMethod\NumLengthMethod\bin\Debug\netcoreapp3.1\NumLengthMethod.exe
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NumLengthMethod\NumLengthMethod\bin\Debug\netcoreapp3.1\NumLengthMethod.deps.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NumLengthMethod\NumLengthMethod\bin\Debug\netcoreapp3.1\NumLengthMethod.runtimeconfig.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NumLengthMethod\NumLengthMethod\bin\Debug\netcoreapp3.1\NumLengthMethod.runtimeconfig.dev.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NumLengthMethod\NumLengthMethod\bin\Debug\netcoreapp3.1\NumLengthMethod.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NumLengthMethod\NumLengthMethod\bin\Debug\netcoreapp3.1\NumLengthMethod.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NumLengthMethod\NumLengthMethod\obj\Debug\netcoreapp3.1\NumLengthMethod.csproj.AssemblyReference.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NumLengthMethod\NumLengthMethod\obj\Debug\netcoreapp3.1\NumLengthMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NumLengthMethod\NumLengthMethod\obj\Debug\netcoreapp3.1\NumLengthMethod.AssemblyInfoInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NumLengthMethod\NumLengthMethod\obj\Debug\netcoreapp3.1\NumLengthMethod.AssemblyInfo.cs
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NumLengthMethod\NumLengthMethod\obj\Debug\netcoreapp3.1\NumLengthMethod.csproj.CoreCompileInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NumLengthMethod\NumLengthMethod\obj\Debug\netcoreapp3.1\NumLengthMethod.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NumLengthMethod\NumLengthMethod\obj\Debug\netcoreapp3.1\NumLengthMethod.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\NumLengthMethod\NumLengthMethod\obj\Debug\netcoreapp3.1\NumLengthMethod.genruntimeconfig.cache

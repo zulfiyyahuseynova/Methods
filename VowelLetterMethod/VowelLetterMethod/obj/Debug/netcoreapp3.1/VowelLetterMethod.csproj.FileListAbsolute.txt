@@ -1,0 +1,14 @@
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VowelLetterMethod\VowelLetterMethod\obj\Debug\netcoreapp3.1\VowelLetterMethod.csproj.AssemblyReference.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VowelLetterMethod\VowelLetterMethod\obj\Debug\netcoreapp3.1\VowelLetterMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VowelLetterMethod\VowelLetterMethod\obj\Debug\netcoreapp3.1\VowelLetterMethod.AssemblyInfoInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VowelLetterMethod\VowelLetterMethod\obj\Debug\netcoreapp3.1\VowelLetterMethod.AssemblyInfo.cs
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VowelLetterMethod\VowelLetterMethod\obj\Debug\netcoreapp3.1\VowelLetterMethod.csproj.CoreCompileInputs.cache
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VowelLetterMethod\VowelLetterMethod\bin\Debug\netcoreapp3.1\VowelLetterMethod.exe
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VowelLetterMethod\VowelLetterMethod\bin\Debug\netcoreapp3.1\VowelLetterMethod.deps.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VowelLetterMethod\VowelLetterMethod\bin\Debug\netcoreapp3.1\VowelLetterMethod.runtimeconfig.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VowelLetterMethod\VowelLetterMethod\bin\Debug\netcoreapp3.1\VowelLetterMethod.runtimeconfig.dev.json
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VowelLetterMethod\VowelLetterMethod\bin\Debug\netcoreapp3.1\VowelLetterMethod.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VowelLetterMethod\VowelLetterMethod\bin\Debug\netcoreapp3.1\VowelLetterMethod.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VowelLetterMethod\VowelLetterMethod\obj\Debug\netcoreapp3.1\VowelLetterMethod.dll
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VowelLetterMethod\VowelLetterMethod\obj\Debug\netcoreapp3.1\VowelLetterMethod.pdb
+C:\Users\Zulfiyya Huseynova\Desktop\Tasklar\VowelLetterMethod\VowelLetterMethod\obj\Debug\netcoreapp3.1\VowelLetterMethod.genruntimeconfig.cache
